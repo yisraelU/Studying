@@ -1,3 +1,5 @@
+## resources
+- [cheatsheet](https://github.com/yisraelU/Studying/blob/master/gnu-coreutils-cheat-sheet.pdf)
 ## commands
 - source
 - export
