@@ -1,5 +1,5 @@
 ## Important ISO (Internation Organization for Standardization)
-# standars worth knowing and remembering
+# standards worth knowing and remembering
 - Language
   - ISO-639 : Language code that represents a particular language 
   - This is broken down into parts such as ISO-639-3
