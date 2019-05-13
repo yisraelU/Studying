@@ -13,3 +13,14 @@ it executes everytime the command bash is run
 # Grep
   - short for Global regular expression print
   
+# Od
+  - Octal Dump 
+  - dumps file or stdin in Octal Format
+    - what that really means
+      - outputs to stdout in Octal format which is the default
+      - also displays on the side the memory address
+    - neat options
+      - change endian via ```--endian=little``` or ```--endian=big```
+      - ```-c``` only display printables (this is based off C's isprintable) 
+  
+  
