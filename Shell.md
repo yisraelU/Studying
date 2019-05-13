@@ -10,3 +10,6 @@ it executes everytime the command bash is run
   - other shell interpreters have their own equivalent of a bashrc
 - .profile: is a shell script executed everytime you login to a system
   - 
+# Grep
+  - short for Global regular expression print
+  
