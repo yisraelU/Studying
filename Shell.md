@@ -22,5 +22,8 @@ it executes everytime the command bash is run
     - neat options
       - change endian via ```--endian=little``` or ```--endian=big```
       - ```-c``` only display printables (this is based off C's isprintable) 
+# Umask
+  - Permission Mode for File Creation
+  
   
   
