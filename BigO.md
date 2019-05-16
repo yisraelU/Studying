@@ -5,3 +5,10 @@
   - Worst case scenario
   - Best case scenario
 - [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- Keywords a.k.a points to rememeber
+  - what does BigO(n2) 'squared' mean?
+  - logarithmic time
+  - asymptotic
+  - Omega
+  - Theta
+  - symbols : (O, Θ, Ω)
