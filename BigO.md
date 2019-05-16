@@ -4,3 +4,4 @@
 - Required analysis for any Tech implementation
   - Worst case scenario
   - Best case scenario
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
