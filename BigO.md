@@ -5,6 +5,7 @@
   - Worst case scenario
   - Best case scenario
 - [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [ ] [A beginner Guide](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 - Keywords a.k.a points to rememeber
   - what does BigO(n2) 'squared' mean?
   - logarithmic time
