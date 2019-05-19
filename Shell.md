@@ -1,5 +1,6 @@
 ## resources
 - [cheatsheet](https://github.com/yisraelU/Studying/blob/master/gnu-coreutils-cheat-sheet.pdf)
+- [Great Course](http://teaching.idallen.com/cst8207/19w/)
 ## commands
 - source
 - export
