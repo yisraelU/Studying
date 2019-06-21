@@ -1,0 +1,4 @@
+- [Programming Paradigms Standford University](https://www.youtube.com/view_play_list?p=9D558D49CA734A02)
+  - Very good Instructor worth repeating Jeremy Cain
+- [Hardware/Software Interface University of Washington  ](https://courses.cs.washington.edu/courses/cse351/17wi/videos.html)
+  - 2 professors switch off, got a very good understanding of data representation ,plus assembly code
