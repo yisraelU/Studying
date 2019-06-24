@@ -8,6 +8,8 @@
       - passive: Passive mode puts the nus on the server to setup the additional connection configs
         The client issues the PASV (thats instead of the PORT) command that tells the server to setup passive mode .
         The server has a configuration os a range of a few thousand ports available for it to start a new session for the client to connect to.
+   - how it works (i.e. what is the protocol itself)
+      - 
 # HTTP
   - about
         
