@@ -1,5 +1,6 @@
 - Mathematics
   - Discrete (whatever that means) , includes Set Theory,Logic,Proofs
+  - ALgebra
   - Category Theory
 - Computational Models
   - abstract machines
