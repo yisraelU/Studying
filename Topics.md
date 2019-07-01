@@ -2,7 +2,7 @@
   - Discrete (whatever that means) , includes Set Theory,Logic,Proofs
   - ALgebra
   - Category Theory
-- Computational Models
+- Computational Theory
   - abstract machines
   - mechanical machines
 - OS 
