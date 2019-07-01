@@ -1,0 +1,17 @@
+- Mathematics
+  - Discrete (whatever that means) , includes Set Theory,Logic,Proofs
+  - Category Theory
+- Computational Models
+  - abstract machines
+  - mechanical machines
+- OS 
+  - Unix
+- Assmbly
+- Low level Language
+  - C 
+  - Rust
+- Programming Languages Paradigms
+- Compilers
+- Algorithsm
+- Data Structures
+- Bash 
