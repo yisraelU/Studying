@@ -16,3 +16,4 @@
   - Discrete Mathematics
   - C programming
   - Computational Theory
+- [MIT 6.001 Structure and Interpretation](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLE18841CABEA24090)
