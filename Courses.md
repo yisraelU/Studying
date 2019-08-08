@@ -4,6 +4,7 @@
 - [Hardware/Software Interface University of Washington  ](https://courses.cs.washington.edu/courses/cse351/17wi/videos.html)
   - 2 professors switch off, got a very good understanding of data representation ,plus assembly code
 - Data Structures -Eric Demaine
+- Intro to Algoritms https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
 - Algorithms - Steve Skienna
 - Programming Languages -Dan Grossman
 # Todo
