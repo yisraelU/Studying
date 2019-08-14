@@ -15,6 +15,7 @@
 - [Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 - [Advanced Data Structures by Eric Demaine](http://courses.csail.mit.edu/6.851/spring14/lectures/)
 - [Hack the OS](https://www.ops-class.org/) - Buffalo University 
+- [Intro to Computing](https://www.youtube.com/watch?v=i3usO4RZ898&list=PL3swII2vlVoXiqUBV524pKEsP1iBN4UBU) - Caltech cs24 , prereq foor cs124
 - [Operating Systems-Basic](https://www.youtube.com/watch?v=Hf4wvrgSHx8&list=PL3swII2vlVoVbav6FV98pidq6BsTN4u56) 
   - its from caltech cs 124 http://courses.cms.caltech.edu/cs124/
 - YouTube Channel [NessoAcademy](https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A)
