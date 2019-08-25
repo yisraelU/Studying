@@ -7,6 +7,8 @@
 - [Intro to Algoritms MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - Algorithms - Steve Skienna
 - Programming Languages -Dan Grossman
+# Doing
+
 # Todo
 - [Programming Abstractions Standford University](https://www.youtube.com/watch?v=kMzH3tfP6f8&list=PLFE6E58F856038C69)  
   - this is 106b at standford , part of their introductory courses to CS
@@ -18,6 +20,7 @@
 - [Intro to Computing](https://www.youtube.com/watch?v=i3usO4RZ898&list=PL3swII2vlVoXiqUBV524pKEsP1iBN4UBU) - Caltech cs24 , prereq foor cs124
 - [Operating Systems-Basic](https://www.youtube.com/watch?v=Hf4wvrgSHx8&list=PL3swII2vlVoVbav6FV98pidq6BsTN4u56) 
   - its from caltech cs 124 http://courses.cms.caltech.edu/cs124/
+- [Information Theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/index.htm)
 - YouTube Channel [NessoAcademy](https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A)
   - Discrete Mathematics
   - C programming
