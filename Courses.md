@@ -12,6 +12,7 @@
 - [Computational Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)  - this looks very interesting , kind of a back to basics of bits and bytes all the way through assembly language ,cpu instrcution sets etc.. Thos ois also hosted on the Lecturer's own website https://computationstructures.org/
 
 # Todo
+- [CS61a Berkley](https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9)
 - [Programming Abstractions Standford University](https://www.youtube.com/watch?v=kMzH3tfP6f8&list=PLFE6E58F856038C69)  
   - this is 106b at standford , part of their introductory courses to CS
 
