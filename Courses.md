@@ -8,6 +8,7 @@
 - Algorithms - Steve Skienna
 - Programming Languages -Dan Grossman
 # Doing
+- [CS61B - From Berkley available on web archives](https://people.eecs.berkeley.edu/~jrs/61bf06/)
 - [Intro to Algoritms MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [Computational Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)  - this looks very interesting , kind of a back to basics of bits and bytes all the way through assembly language ,cpu instrcution sets etc.. Thos ois also hosted on the Lecturer's own website https://computationstructures.org/
 
