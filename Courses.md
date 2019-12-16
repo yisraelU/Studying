@@ -16,6 +16,8 @@
 - [CS61a Berkley](https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9)
 - [Programming Abstractions Standford University](https://www.youtube.com/watch?v=kMzH3tfP6f8&list=PLFE6E58F856038C69)  
   - this is 106b at standford , part of their introductory courses to CS
+- [CS61C Berkely](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter)  
+- [CS186 Berkely Intro to Database Systems](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y)
 
 - [Mathematics for Computer SCience](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)- From MIT https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/
 - [Computational Theory](https://www.youtube.com/watch?v=7w_hO_1sPuA&list=PL_w_qWAQZtAYRxrBXDwlSGo5tgm7bXJqW) UC Davis Dan Gusfield
