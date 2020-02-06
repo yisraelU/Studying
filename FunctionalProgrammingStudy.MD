@@ -7,4 +7,8 @@
     - Functional programming in Scala
 - Valuable Articles
   - https://blog.ploeh.dk/2020/01/20/algebraic-data-types-arent-numbers-on-steroids/
+- Glossary
+  - Types
+    - Dependent Types = types dependent on the value that they have , such as Type One(1) , can only be represented by a value of 1
+    - Refinement Types = types with a predicate , 
   
