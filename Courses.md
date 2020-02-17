@@ -14,6 +14,7 @@
 
 # Todo
 - [CS61a Berkley](https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9)
+- [162 Berkley OS fundamentals](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c?sort=titleSorter)
 - [Hack your Language](https://archive.org/details/ucberkeley-webcast-PL3A16CFC42CA6EF4F)
 - [Compilers CSEP 501](https://www.youtube.com/watch?v=Kk22pqxy_VI)
 - [Programming Abstractions Standford University](https://www.youtube.com/watch?v=kMzH3tfP6f8&list=PLFE6E58F856038C69)  
